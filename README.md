@@ -8,14 +8,23 @@ Incorporated Spring mail for sending customer registration, confirmation, order 
 Used Spring framework development with Spring Boot
 Spring Data JPA and Hibernate framework
 Spring Security for authentication and authorization
+
+<img width="1414" alt="Screen Shot 2022-06-17 at 12 02 24 PM" src="https://user-images.githubusercontent.com/90403151/174334948-d762448b-79ea-49ed-9428-2634d5b390c2.png">
+
 Spring OAuth for social login with Facebook and Google
 Spring Mail for sending customer registration confirmation and order confirmation
 PayPal Checkout API for capturing payment from customer
+
+<img width="1420" alt="Screen Shot 2022-06-17 at 12 04 07 PM" src="https://user-images.githubusercontent.com/90403151/174335258-d21e96b0-38a1-4338-8763-cc88b5788bea.png">
+
 Google Chart API for drawing charts of sales report
 JUnit, AssertJ and Mockito in unit testing
 Spring RESTful Webservices
 Bootstrap 4, HTML5 and jQuery 3
 Develop a complete shopping website using Java, Spring Boot, Thymeleaf, Bootstrap, jQuery and MySQL database
+
+<img width="1411" alt="Screen Shot 2022-06-17 at 12 03 29 PM" src="https://user-images.githubusercontent.com/90403151/174335126-1a94950e-2862-42c5-8a66-837ed74d8570.png">
+
 Code the Admin application for managing users, categories, brands, products, customers, orders, sales report...
 Code the Shopping application allowing customers to browse products and place orders
 Code shopping cart features and payment via PayPal and credit cards
