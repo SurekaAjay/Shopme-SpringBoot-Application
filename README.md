@@ -31,7 +31,9 @@ Code shopping cart features and payment via PayPal and credit cards
 Used Spring Data JPA with Hibernate for the data access layer
 Used Spring Security for authentication and role-based authorization
 Used Thymeleaf template engine for creating dynamic view pages
-Used Bootstrap and jQuery for creating responsive, mobile-friendly web pages
+Used Bootstrap and jQuery for cr
+<img width="1414" alt="Screen Shot 2022-06-17 at 12 06 35 PM" src="https://user-images.githubusercontent.com/90403151/174335622-850d524e-ec16-40fc-a1c8-616a272a32d5.png">
+eating responsive, mobile-friendly web pages
 Used Spring RESTful Webservices in conjunction with jQuery on the client side
 Used PayPal Checkout API for payment integration
 Used JUnit, Spring Test, AssertJ and Mockito for unit tests and integration tests
