@@ -6,7 +6,10 @@
   <packaging>pom</packaging>
   <name>Shopme Project</name>
   <description>Root project</description>
-  
+  <properties>
+  <sonar.organization>surekaajay</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   
   <modules>
   <module>ShopmeCommon</module>
